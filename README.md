@@ -15,3 +15,6 @@ I principali compiti di un sistemista sono quindi di:
 - pianificare e verificare la corretta esecuzione di operazioni cicliche come ad es. backup, manutenzione ordinaria, aggiornamenti;
 - collaborare con le altre funzioni aziendali in un’ottica di miglioramento continuo;
 - rispondere alle esigenze della direzione della struttura gestita (azienda, ente pubblico, associazione, ecc.) (es. vincoli prestazionali e di affidabilità, rispetto di policy di sicurezza ecc...).
+
+*Il progetto e tutta la documentazione allegata sono tutelati dalla legge sul diritto d’autore (Legge 633/1941); il materiale può essere utilizzato nei termini di licenza 
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).* 
